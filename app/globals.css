@@ -22,6 +22,11 @@
   --color-success: #16a34a;
   --color-success-bg: #dcfce7;
 
+  /* Warm canvas — the home page ground, distinct from the cool Neutral 50 */
+  --color-canvas: #fbf8f5;
+  --color-canvas-line: #efe7e0;
+  --color-canvas-card: #fefcfa;
+
   --background: var(--color-neutral-50);
   --foreground: var(--color-neutral-900);
 
@@ -72,6 +77,10 @@
   --color-success: var(--color-success);
   --color-success-bg: var(--color-success-bg);
 
+  --color-canvas: var(--color-canvas);
+  --color-canvas-line: var(--color-canvas-line);
+  --color-canvas-card: var(--color-canvas-card);
+
   --font-display: var(--font-playfair), Georgia, serif;
   --font-sans: var(--font-inter), Arial, Helvetica, sans-serif;
 
@@ -92,6 +101,16 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-sans);
+}
+
+/* Diagonal hatch filling the gutters either side of the framed column.
+   13px horizontal period measured off the reference = 9.2px along the 45deg axis. */
+.canvas-hatch {
+  background-image: repeating-linear-gradient(
+    45deg,
+    var(--color-canvas-line) 0 1.5px,
+    transparent 1.5px 9.2px
+  );
 }
 
 /* Type scale utility classes */
