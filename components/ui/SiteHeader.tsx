@@ -1,5 +1,10 @@
+import {
+  Show,
+  SignInButton,
+  SignUpButton,
+  UserButton,
+} from "@clerk/nextjs";
 import Link from "next/link";
-import { Avatar } from "./Avatar";
 import { BellIcon } from "./icons";
 
 const links = [
@@ -45,7 +50,33 @@ export function SiteHeader({ activeHref }: { activeHref?: string }) {
         >
           <BellIcon width={24} height={24} />
         </button>
-        <Avatar initials="C" name="Your account" />
+        <Show when="signed-out">
+          <SignInButton mode="modal">
+            <button
+              type="button"
+              className="rounded-sm text-base font-medium text-neutral-700 hover:text-neutral-900 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-primary-500"
+            >
+              Sign in
+            </button>
+          </SignInButton>
+          <SignUpButton mode="modal">
+            <button
+              type="button"
+              className="inline-flex h-11 items-center justify-center rounded-md bg-primary-500 px-4 text-[15px] font-medium text-white transition-colors hover:bg-primary-400 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-primary-500"
+            >
+              Sign up
+            </button>
+          </SignUpButton>
+        </Show>
+        <Show when="signed-in">
+          <UserButton
+            appearance={{
+              elements: {
+                avatarBox: "h-[50px] w-[50px] ring-1 ring-canvas-line",
+              },
+            }}
+          />
+        </Show>
       </div>
     </header>
   );
