@@ -1,0 +1,1202 @@
+{
+  "algorithmic-problem-patterns-backtracking": {
+    "videoId": "xFv_Hl4B83A",
+    "url": "https://www.youtube.com/watch?v=xFv_Hl4B83A",
+    "title": "6.1 N Queens Problem using Backtracking",
+    "author": "Abdul Bari",
+    "durationSeconds": 821,
+    "thumbnail": "https://i.ytimg.com/vi/xFv_Hl4B83A/maxresdefault.jpg",
+    "query": "backtracking algorithm permutations n queens tutorial",
+    "match": 0.5
+  },
+  "algorithmic-problem-patterns-binary-search-on-answer": {
+    "videoId": "JAfJssvFgDI",
+    "url": "https://www.youtube.com/watch?v=JAfJssvFgDI",
+    "title": "Advanced Binary Search with Predicate Function | SPOJ EKO | CP Course | EP 43",
+    "author": "Luv",
+    "durationSeconds": 1384,
+    "thumbnail": "https://i.ytimg.com/vi/JAfJssvFgDI/maxresdefault.jpg",
+    "query": "binary search on answer monotonic predicate tutorial",
+    "match": 0.6
+  },
+  "algorithmic-problem-patterns-complexity-under-pressure": {
+    "videoId": "wrCvTHpSvZw",
+    "url": "https://www.youtube.com/watch?v=wrCvTHpSvZw",
+    "title": "100 MCQs on Analysis of Algorithms | Time Complexity, Sorting, Graphs, DP | CS Interview Prep",
+    "author": "Creative Nexus",
+    "durationSeconds": 1029,
+    "thumbnail": "https://i.ytimg.com/vi/wrCvTHpSvZw/maxresdefault.jpg",
+    "query": "algorithm interview time complexity analysis tips",
+    "match": 0.67
+  },
+  "algorithmic-problem-patterns-dijkstra-shortest-path": {
+    "videoId": "V6H1qAeB-l4",
+    "url": "https://www.youtube.com/watch?v=V6H1qAeB-l4",
+    "title": "G-32. Dijkstra's Algorithm - Using Priority Queue - C++ and Java - Part 1",
+    "author": "take U forward",
+    "durationSeconds": 1362,
+    "thumbnail": "https://i.ytimg.com/vi/V6H1qAeB-l4/maxresdefault.jpg",
+    "query": "dijkstra algorithm shortest path priority queue tutorial",
+    "match": 0.67
+  },
+  "algorithmic-problem-patterns-greedy-and-exchange-arguments": {
+    "videoId": "hVhOeaONg1Y",
+    "url": "https://www.youtube.com/watch?v=hVhOeaONg1Y",
+    "title": "Interval Scheduling Maximization (Proof w/ Exchange Argument)",
+    "author": "Back To Back SWE",
+    "durationSeconds": 1220,
+    "thumbnail": "https://i.ytimg.com/vi/hVhOeaONg1Y/hqdefault.jpg",
+    "query": "greedy algorithm exchange argument proof tutorial",
+    "match": 0.6
+  },
+  "algorithmic-problem-patterns-knapsack-problems": {
+    "videoId": "qxWu-SeAqe4",
+    "url": "https://www.youtube.com/watch?v=qxWu-SeAqe4",
+    "title": "0/1 Knapsack Problem Explained Visually",
+    "author": "ByteQuest",
+    "durationSeconds": 489,
+    "thumbnail": "https://i.ytimg.com/vi/qxWu-SeAqe4/maxresdefault.jpg",
+    "query": "knapsack problem dynamic programming tutorial",
+    "match": 0.5
+  },
+  "algorithmic-problem-patterns-lcs-and-edit-distance": {
+    "videoId": "jHGgXV27qtk",
+    "url": "https://www.youtube.com/watch?v=jHGgXV27qtk",
+    "title": "Longest Common Subsequence- Dynamic Programming | Data structures and algorithms",
+    "author": "Jenny's Lectures CS IT",
+    "durationSeconds": 1547,
+    "thumbnail": "https://i.ytimg.com/vi/jHGgXV27qtk/hqdefault.jpg",
+    "query": "longest common subsequence edit distance dynamic programming",
+    "match": 0.71
+  },
+  "algorithmic-problem-patterns-memoization-to-tabulation": {
+    "videoId": "tyB0ztf0DNY",
+    "url": "https://www.youtube.com/watch?v=tyB0ztf0DNY",
+    "title": "DP 1. Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimization Techniques",
+    "author": "take U forward",
+    "durationSeconds": 2031,
+    "thumbnail": "https://i.ytimg.com/vi/tyB0ztf0DNY/maxresdefault.jpg",
+    "query": "dynamic programming memoization tabulation tutorial",
+    "match": 1
+  },
+  "algorithmic-problem-patterns-merge-sort-and-quick-sort": {
+    "videoId": "jlHkDBEumP0",
+    "url": "https://www.youtube.com/watch?v=jlHkDBEumP0",
+    "title": "7.7 Merge Sort in Data Structure | Sorting Algorithms| DSA Full Course",
+    "author": "Jenny's Lectures CS IT",
+    "durationSeconds": 2128,
+    "thumbnail": "https://i.ytimg.com/vi/jlHkDBEumP0/maxresdefault.jpg",
+    "query": "merge sort quick sort algorithm explained tutorial",
+    "match": 0.5
+  },
+  "algorithmic-problem-patterns-sliding-window": {
+    "videoId": "y2d0VHdvfdc",
+    "url": "https://www.youtube.com/watch?v=y2d0VHdvfdc",
+    "title": "Sliding Window in 7 minutes | LeetCode Pattern",
+    "author": "AlgoMasterIO",
+    "durationSeconds": 458,
+    "thumbnail": "https://i.ytimg.com/vi/y2d0VHdvfdc/maxresdefault.jpg",
+    "query": "sliding window technique algorithm tutorial",
+    "match": 0.5
+  },
+  "algorithmic-problem-patterns-topological-sort": {
+    "videoId": "73sneFXuTEg",
+    "url": "https://www.youtube.com/watch?v=73sneFXuTEg",
+    "title": "G-22. Kahn's Algorithm | Topological Sort Algorithm | BFS",
+    "author": "take U forward",
+    "durationSeconds": 830,
+    "thumbnail": "https://i.ytimg.com/vi/73sneFXuTEg/maxresdefault.jpg",
+    "query": "topological sort kahn algorithm tutorial",
+    "match": 1
+  },
+  "algorithmic-problem-patterns-union-find": {
+    "videoId": "aBxjDBC4M1U",
+    "url": "https://www.youtube.com/watch?v=aBxjDBC4M1U",
+    "title": "G-46. Disjoint Set | Union by Rank | Union by Size | Path Compression",
+    "author": "take U forward",
+    "durationSeconds": 2535,
+    "thumbnail": "https://i.ytimg.com/vi/aBxjDBC4M1U/maxresdefault.jpg",
+    "query": "union find disjoint set path compression tutorial",
+    "match": 0.83
+  },
+  "building-llm-applications-agent-loops": {
+    "videoId": "OXXbVEeZdSw",
+    "url": "https://www.youtube.com/watch?v=OXXbVEeZdSw",
+    "title": "ReAct Loop: The Pattern Every AI Agent Needs",
+    "author": "Tony Tech Insights",
+    "durationSeconds": 427,
+    "thumbnail": "https://i.ytimg.com/vi/OXXbVEeZdSw/maxresdefault.jpg",
+    "query": "llm agent loop react pattern tutorial",
+    "match": 0.8
+  },
+  "building-llm-applications-building-a-rag-pipeline": {
+    "videoId": "iLO6yEnIuaA",
+    "url": "https://www.youtube.com/watch?v=iLO6yEnIuaA",
+    "title": "Build a RAG Pipeline from Scratch | Retrieval-Augmented Generation (RAG) Tutorial | Edureka",
+    "author": "edureka!",
+    "durationSeconds": 4545,
+    "thumbnail": "https://i.ytimg.com/vi/iLO6yEnIuaA/maxresdefault.jpg",
+    "query": "building rag pipeline retrieval augmented generation tutorial",
+    "match": 0.83
+  },
+  "building-llm-applications-chunking-strategies": {
+    "videoId": "WAiscGs8Yr4",
+    "url": "https://www.youtube.com/watch?v=WAiscGs8Yr4",
+    "title": "RAG Chunking: Strategies for Splitting and Structuring Documents",
+    "author": "Logical Lenses",
+    "durationSeconds": 839,
+    "thumbnail": "https://i.ytimg.com/vi/WAiscGs8Yr4/maxresdefault.jpg",
+    "query": "rag chunking strategies document splitting tutorial",
+    "match": 0.8
+  },
+  "building-llm-applications-cost-and-latency": {
+    "videoId": "u57EnkQaUTY",
+    "url": "https://www.youtube.com/watch?v=u57EnkQaUTY",
+    "title": "What is Prompt Caching? Optimize LLM Latency with AI Transformers",
+    "author": "IBM Technology",
+    "durationSeconds": 546,
+    "thumbnail": "https://i.ytimg.com/vi/u57EnkQaUTY/maxresdefault.jpg",
+    "query": "llm cost optimization latency prompt caching tutorial",
+    "match": 0.67
+  },
+  "building-llm-applications-embeddings-and-vector-search": {
+    "videoId": "nbJVJ1RPBEg",
+    "url": "https://www.youtube.com/watch?v=nbJVJ1RPBEg",
+    "title": "RAG Tutorial 2026 #5: Cosine Similarity for Vector Search Explained",
+    "author": "Harish Neel | AI",
+    "durationSeconds": 450,
+    "thumbnail": "https://i.ytimg.com/vi/nbJVJ1RPBEg/maxresdefault.jpg",
+    "query": "embeddings vector search similarity explained tutorial",
+    "match": 0.75
+  },
+  "building-llm-applications-evals": {
+    "videoId": "pgyhq-WagIg",
+    "url": "https://www.youtube.com/watch?v=pgyhq-WagIg",
+    "title": "Intro to LLM Evaluation w/ OpenAI Evals [Walk-Thru]",
+    "author": "Manny Bernabe",
+    "durationSeconds": 865,
+    "thumbnail": "https://i.ytimg.com/vi/pgyhq-WagIg/maxresdefault.jpg",
+    "query": "llm evaluation evals testing tutorial",
+    "match": 0.75
+  },
+  "building-llm-applications-guardrails-and-safety": {
+    "videoId": "uAkn7J9UrEY",
+    "url": "https://www.youtube.com/watch?v=uAkn7J9UrEY",
+    "title": "Prompt Injection Defense: Secure LLM Apps with Guardrails | Module 4.2",
+    "author": "KryptoMindz Technologies",
+    "durationSeconds": 542,
+    "thumbnail": "https://i.ytimg.com/vi/uAkn7J9UrEY/maxresdefault.jpg",
+    "query": "llm guardrails prompt injection safety tutorial",
+    "match": 0.8
+  },
+  "building-llm-applications-model-context-protocol": {
+    "videoId": "tzrwxLNHtRY",
+    "url": "https://www.youtube.com/watch?v=tzrwxLNHtRY",
+    "title": "Model Context Protocol Clearly Explained | MCP Beyond the Hype",
+    "author": "codebasics",
+    "durationSeconds": 904,
+    "thumbnail": "https://i.ytimg.com/vi/tzrwxLNHtRY/maxresdefault.jpg",
+    "query": "model context protocol mcp explained tutorial",
+    "match": 1
+  },
+  "building-llm-applications-prompt-engineering": {
+    "videoId": "nQEndamWWig",
+    "url": "https://www.youtube.com/watch?v=nQEndamWWig",
+    "title": "Advanced Prompt Engineering Techniques - Master ChatGPT and LLM",
+    "author": "Avinash Mada",
+    "durationSeconds": 525,
+    "thumbnail": "https://i.ytimg.com/vi/nQEndamWWig/maxresdefault.jpg",
+    "query": "prompt engineering techniques llm tutorial",
+    "match": 1
+  },
+  "building-llm-applications-structured-output": {
+    "videoId": "69JQcPkmdE4",
+    "url": "https://www.youtube.com/watch?v=69JQcPkmdE4",
+    "title": "11 Unlock Structured data with OpenAI: Part1/6:Function Calling and Json Schema Explained #openaiapi",
+    "author": "NetworkEvolution",
+    "durationSeconds": 1513,
+    "thumbnail": "https://i.ytimg.com/vi/69JQcPkmdE4/maxresdefault.jpg",
+    "query": "llm structured output json schema function calling tutorial",
+    "match": 0.71
+  },
+  "building-llm-applications-tokens-and-context-windows": {
+    "videoId": "mjtUOD2Ax_I",
+    "url": "https://www.youtube.com/watch?v=mjtUOD2Ax_I",
+    "title": "LLM Intro | Tokens | Context Window | Embeddings | Temperature Explained with One Real RAG Example",
+    "author": "Data Architect Diaries",
+    "durationSeconds": 704,
+    "thumbnail": "https://i.ytimg.com/vi/mjtUOD2Ax_I/maxresdefault.jpg",
+    "query": "llm tokens context window explained tutorial",
+    "match": 1
+  },
+  "building-llm-applications-tool-calling": {
+    "videoId": "WkW5kvUdUa0",
+    "url": "https://www.youtube.com/watch?v=WkW5kvUdUa0",
+    "title": "🛠️ Give Your LLM Real Tools | Function Calling & Tool Schema in Agentic AI (Lab 3)",
+    "author": "Super Data Science",
+    "durationSeconds": 346,
+    "thumbnail": "https://i.ytimg.com/vi/WkW5kvUdUa0/maxresdefault.jpg",
+    "query": "llm tool calling function calling tutorial",
+    "match": 1
+  },
+  "data-structures-foundations-arrays-and-dynamic-arrays": {
+    "videoId": "MTl8djZFWE0",
+    "url": "https://www.youtube.com/watch?v=MTl8djZFWE0",
+    "title": "What is Amortized Time Complexity? - Dynamic Array",
+    "author": "Gaurav Sen",
+    "durationSeconds": 710,
+    "thumbnail": "https://i.ytimg.com/vi/MTl8djZFWE0/maxresdefault.jpg",
+    "query": "dynamic array resizing amortized analysis explained",
+    "match": 0.6
+  },
+  "data-structures-foundations-bfs-and-dfs": {
+    "videoId": "pcKY4hjDrxk",
+    "url": "https://www.youtube.com/watch?v=pcKY4hjDrxk",
+    "title": "5.1 Graph Traversals - BFS & DFS -Breadth First Search and Depth First Search",
+    "author": "Abdul Bari",
+    "durationSeconds": 1110,
+    "thumbnail": "https://i.ytimg.com/vi/pcKY4hjDrxk/maxresdefault.jpg",
+    "query": "bfs dfs graph traversal algorithm tutorial",
+    "match": 0.6
+  },
+  "data-structures-foundations-big-o-notation": {
+    "videoId": "jUy5N-3RAjo",
+    "url": "https://www.youtube.com/watch?v=jUy5N-3RAjo",
+    "title": "Big O Notation, Time Complexity | DSA",
+    "author": "Telusko",
+    "durationSeconds": 1276,
+    "thumbnail": "https://i.ytimg.com/vi/jUy5N-3RAjo/maxresdefault.jpg",
+    "query": "big o notation time complexity explained tutorial",
+    "match": 1
+  },
+  "data-structures-foundations-binary-search-trees": {
+    "videoId": "kouxiP_H5WE",
+    "url": "https://www.youtube.com/watch?v=kouxiP_H5WE",
+    "title": "L44. Delete a Node in Binary Search Tree | BST | C++ | Java",
+    "author": "take U forward",
+    "durationSeconds": 947,
+    "thumbnail": "https://i.ytimg.com/vi/kouxiP_H5WE/maxresdefault.jpg",
+    "query": "binary search tree insert delete tutorial",
+    "match": 0.8
+  },
+  "data-structures-foundations-binary-trees-and-traversal": {
+    "videoId": "-b2lciNd2L4",
+    "url": "https://www.youtube.com/watch?v=-b2lciNd2L4",
+    "title": "5.5 Binary Tree Traversals (Inorder, Preorder and Postorder) | Data structures and algorithms",
+    "author": "Jenny's Lectures CS IT",
+    "durationSeconds": 667,
+    "thumbnail": "https://i.ytimg.com/vi/-b2lciNd2L4/maxresdefault.jpg",
+    "query": "binary tree traversal inorder preorder postorder tutorial",
+    "match": 0.83
+  },
+  "data-structures-foundations-graph-representations": {
+    "videoId": "5hPfm_uqXmw",
+    "url": "https://www.youtube.com/watch?v=5hPfm_uqXmw",
+    "title": "6.1 Graph Representation in Data Structure(Graph Theory)|Adjacency Matrix and Adjacency List",
+    "author": "Jenny's Lectures CS IT",
+    "durationSeconds": 731,
+    "thumbnail": "https://i.ytimg.com/vi/5hPfm_uqXmw/maxresdefault.jpg",
+    "query": "graph representation adjacency list matrix tutorial",
+    "match": 1
+  },
+  "data-structures-foundations-hash-tables": {
+    "videoId": "54iv1si4YCM",
+    "url": "https://www.youtube.com/watch?v=54iv1si4YCM",
+    "title": "Collision Handling In Hash Table - Data Structures & Algorithms Tutorials In Python #6",
+    "author": "codebasics",
+    "durationSeconds": 1101,
+    "thumbnail": "https://i.ytimg.com/vi/54iv1si4YCM/maxresdefault.jpg",
+    "query": "hash table implementation collision resolution tutorial",
+    "match": 0.6
+  },
+  "data-structures-foundations-heaps-and-priority-queues": {
+    "videoId": "zyIMvn50KuE",
+    "url": "https://www.youtube.com/watch?v=zyIMvn50KuE",
+    "title": "Binary Heap, Operations on Binary Heap, DeleteMax Operation, Priority Queue in data structures",
+    "author": "CSIT Tutorials by KanyaKumari",
+    "durationSeconds": 601,
+    "thumbnail": "https://i.ytimg.com/vi/zyIMvn50KuE/maxresdefault.jpg",
+    "query": "binary heap priority queue implementation tutorial",
+    "match": 0.8
+  },
+  "data-structures-foundations-linked-lists": {
+    "videoId": "6wXZ_m3SbEs",
+    "url": "https://www.youtube.com/watch?v=6wXZ_m3SbEs",
+    "title": "2.4 Linked List Implementation in C/C++ | Creation and Display | DSA Tutorials",
+    "author": "Jenny's Lectures CS IT",
+    "durationSeconds": 1741,
+    "thumbnail": "https://i.ytimg.com/vi/6wXZ_m3SbEs/maxresdefault.jpg",
+    "query": "linked list data structure implementation tutorial",
+    "match": 0.6
+  },
+  "data-structures-foundations-queues-and-deques": {
+    "videoId": "zp6pBNbUB2U",
+    "url": "https://www.youtube.com/watch?v=zp6pBNbUB2U",
+    "title": "4.1 Queue in Data Structure | Introduction to Queue | Data Structures Tutorials",
+    "author": "Jenny's Lectures CS IT",
+    "durationSeconds": 1218,
+    "thumbnail": "https://i.ytimg.com/vi/zp6pBNbUB2U/maxresdefault.jpg",
+    "query": "queue deque circular buffer data structure tutorial",
+    "match": 0.5
+  },
+  "data-structures-foundations-stacks": {
+    "videoId": "VmsTAVpz0xo",
+    "url": "https://www.youtube.com/watch?v=VmsTAVpz0xo",
+    "title": "3.2 Implementation of Stack using Array | Data Structure and Algorithm Tutorials",
+    "author": "Jenny's Lectures CS IT",
+    "durationSeconds": 1047,
+    "thumbnail": "https://i.ytimg.com/vi/VmsTAVpz0xo/maxresdefault.jpg",
+    "query": "stack data structure implementation tutorial",
+    "match": 1
+  },
+  "data-structures-foundations-two-pointer-technique": {
+    "videoId": "On03HWe2tZM",
+    "url": "https://www.youtube.com/watch?v=On03HWe2tZM",
+    "title": "Visual introduction Two Pointer Algorithm | Data Structure and Algorithm for Coding Interviews",
+    "author": "Josh's DevBox",
+    "durationSeconds": 456,
+    "thumbnail": "https://i.ytimg.com/vi/On03HWe2tZM/maxresdefault.jpg",
+    "query": "two pointer technique arrays algorithm tutorial",
+    "match": 0.6
+  },
+  "machine-learning-foundations-backpropagation-and-gradient-descent": {
+    "videoId": "odlgtjXduVg",
+    "url": "https://www.youtube.com/watch?v=odlgtjXduVg",
+    "title": "Backpropagation And Gradient Descent In Neural Networks | Neural Network Tutorial | Simplilearn",
+    "author": "Simplilearn",
+    "durationSeconds": 759,
+    "thumbnail": "https://i.ytimg.com/vi/odlgtjXduVg/maxresdefault.jpg",
+    "query": "backpropagation gradient descent neural network explained",
+    "match": 1
+  },
+  "machine-learning-foundations-bias-variance-and-regularization": {
+    "videoId": "UKB2aeet1Ok",
+    "url": "https://www.youtube.com/watch?v=UKB2aeet1Ok",
+    "title": "Machine Learning | Bias Variance Tradeoff",
+    "author": "RANJI RAJ",
+    "durationSeconds": 823,
+    "thumbnail": "https://i.ytimg.com/vi/UKB2aeet1Ok/maxresdefault.jpg",
+    "query": "bias variance tradeoff regularization machine learning explained",
+    "match": 0.83
+  },
+  "machine-learning-foundations-classification-metrics": {
+    "videoId": "pgfga-EhHo4",
+    "url": "https://www.youtube.com/watch?v=pgfga-EhHo4",
+    "title": "Machine Learning Classification Metrics Explained (Confusion Matrix, Precision, Recall, F1, ROC AUC)",
+    "author": "StudyPalz",
+    "durationSeconds": 473,
+    "thumbnail": "https://i.ytimg.com/vi/pgfga-EhHo4/maxresdefault.jpg",
+    "query": "precision recall f1 roc auc classification metrics explained",
+    "match": 1
+  },
+  "machine-learning-foundations-data-cleaning-and-features": {
+    "videoId": "2C4pmzSXHUE",
+    "url": "https://www.youtube.com/watch?v=2C4pmzSXHUE",
+    "title": "Data Preprocessing in Machine Learning | Data Cleaning, Feature Selection, and Feature Engineering",
+    "author": "Lakshya Mittal- [ IIT Guwahati ]",
+    "durationSeconds": 1978,
+    "thumbnail": "https://i.ytimg.com/vi/2C4pmzSXHUE/maxresdefault.jpg",
+    "query": "data cleaning feature engineering machine learning tutorial",
+    "match": 1
+  },
+  "machine-learning-foundations-decision-trees-and-forests": {
+    "videoId": "DXqxXe3rep0",
+    "url": "https://www.youtube.com/watch?v=DXqxXe3rep0",
+    "title": "Lec-18: Random Forest 🌳 in Machine Learning 🧑‍💻👩‍💻",
+    "author": "Gate Smashers",
+    "durationSeconds": 513,
+    "thumbnail": "https://i.ytimg.com/vi/DXqxXe3rep0/maxresdefault.jpg",
+    "query": "decision trees random forest machine learning tutorial",
+    "match": 0.67
+  },
+  "machine-learning-foundations-linear-algebra-for-ml": {
+    "videoId": "wvW4fAFUUWE",
+    "url": "https://www.youtube.com/watch?v=wvW4fAFUUWE",
+    "title": "Scalars, Vectors, Matrices, Tensors, etc explained | Linear Algebra Basics for Machine Learning",
+    "author": "Galaxy Inferno Codes",
+    "durationSeconds": 584,
+    "thumbnail": "https://i.ytimg.com/vi/wvW4fAFUUWE/maxresdefault.jpg",
+    "query": "linear algebra for machine learning vectors matrices tutorial",
+    "match": 1
+  },
+  "machine-learning-foundations-linear-regression": {
+    "videoId": "4PHI11lX11I",
+    "url": "https://www.youtube.com/watch?v=4PHI11lX11I",
+    "title": "Linear Regression using Gradient Descent in Python - Machine Learning Basics",
+    "author": "Adarsh Menon",
+    "durationSeconds": 739,
+    "thumbnail": "https://i.ytimg.com/vi/4PHI11lX11I/maxresdefault.jpg",
+    "query": "linear regression machine learning gradient descent tutorial",
+    "match": 1
+  },
+  "machine-learning-foundations-logistic-regression": {
+    "videoId": "zM4VZR0px8E",
+    "url": "https://www.youtube.com/watch?v=zM4VZR0px8E",
+    "title": "Machine Learning Tutorial Python - 8:  Logistic Regression (Binary Classification)",
+    "author": "codebasics",
+    "durationSeconds": 1159,
+    "thumbnail": "https://i.ytimg.com/vi/zM4VZR0px8E/maxresdefault.jpg",
+    "query": "logistic regression classification machine learning tutorial",
+    "match": 1
+  },
+  "machine-learning-foundations-perceptron-to-mlp": {
+    "videoId": "SNCpgqXddUs",
+    "url": "https://www.youtube.com/watch?v=SNCpgqXddUs",
+    "title": "Neural Networks Explained: Building a Multilayer Perceptron!",
+    "author": "Tina Mai",
+    "durationSeconds": 180,
+    "thumbnail": "https://i.ytimg.com/vi/SNCpgqXddUs/maxresdefault.jpg",
+    "query": "neural network perceptron multilayer explained tutorial",
+    "match": 0.75
+  },
+  "machine-learning-foundations-probability-and-statistics": {
+    "videoId": "SwryhCJMIzA",
+    "url": "https://www.youtube.com/watch?v=SwryhCJMIzA",
+    "title": "Foundations for Machine Learning | Probability and Statistics | An introduction [Lecture 11]",
+    "author": "Vizuara",
+    "durationSeconds": 2821,
+    "thumbnail": "https://i.ytimg.com/vi/SwryhCJMIzA/maxresdefault.jpg",
+    "query": "probability statistics for machine learning tutorial",
+    "match": 1
+  },
+  "machine-learning-foundations-train-test-split-and-cross-validation": {
+    "videoId": "NMdJHVmzBwg",
+    "url": "https://www.youtube.com/watch?v=NMdJHVmzBwg",
+    "title": "Machine Learning | Cross Validation | Random State in Train Test Split | ML | AI",
+    "author": "technologyCult",
+    "durationSeconds": 500,
+    "thumbnail": "https://i.ytimg.com/vi/NMdJHVmzBwg/hqdefault.jpg",
+    "query": "cross validation train test split machine learning tutorial",
+    "match": 1
+  },
+  "machine-learning-foundations-training-with-pytorch": {
+    "videoId": "Ak-WSvnUS8I",
+    "url": "https://www.youtube.com/watch?v=Ak-WSvnUS8I",
+    "title": "PyTorch Tutorial Part 1 | Build a Neural Network Training Loop from Scratch",
+    "author": "PracticalPython",
+    "durationSeconds": 938,
+    "thumbnail": "https://i.ytimg.com/vi/Ak-WSvnUS8I/maxresdefault.jpg",
+    "query": "pytorch training loop neural network tutorial",
+    "match": 1
+  },
+  "modern-python-for-backend-engineers-async-await-patterns": {
+    "videoId": "44WqX9uqmFA",
+    "url": "https://www.youtube.com/watch?v=44WqX9uqmFA",
+    "title": "3 ways asyncio.gather breaks concurrent code—and how TaskGroup fixes it",
+    "author": "Maksym Shemet",
+    "durationSeconds": 253,
+    "thumbnail": "https://i.ytimg.com/vi/44WqX9uqmFA/maxresdefault.jpg",
+    "query": "python asyncio gather task group patterns tutorial",
+    "match": 0.33
+  },
+  "modern-python-for-backend-engineers-async-pitfalls": {
+    "videoId": "TUBL6rDSNvM",
+    "url": "https://www.youtube.com/watch?v=TUBL6rDSNvM",
+    "title": "Asyncio Explained: Event Loop & Tasks (Python 2026 Tutorial)",
+    "author": "CodeLucky",
+    "durationSeconds": 259,
+    "thumbnail": "https://i.ytimg.com/vi/TUBL6rDSNvM/maxresdefault.jpg",
+    "query": "python asyncio common mistakes blocking event loop",
+    "match": 0.57
+  },
+  "modern-python-for-backend-engineers-asyncio-event-loop": {
+    "videoId": "Qb9s3UiMSTA",
+    "url": "https://www.youtube.com/watch?v=Qb9s3UiMSTA",
+    "title": "Asyncio in Python - Full Tutorial",
+    "author": "Tech With Tim",
+    "durationSeconds": 1498,
+    "thumbnail": "https://i.ytimg.com/vi/Qb9s3UiMSTA/maxresdefault.jpg",
+    "query": "python asyncio event loop explained tutorial",
+    "match": 0.5
+  },
+  "modern-python-for-backend-engineers-auth-and-middleware": {
+    "videoId": "0A_GCXBCNUQ",
+    "url": "https://www.youtube.com/watch?v=0A_GCXBCNUQ",
+    "title": "FastAPI JWT Tutorial | How to add User Authentication",
+    "author": "Eric Roby",
+    "durationSeconds": 1227,
+    "thumbnail": "https://i.ytimg.com/vi/0A_GCXBCNUQ/maxresdefault.jpg",
+    "query": "fastapi authentication jwt middleware tutorial",
+    "match": 0.75
+  },
+  "modern-python-for-backend-engineers-comprehensions-and-iterators": {
+    "videoId": "mziIj4M_uwk",
+    "url": "https://www.youtube.com/watch?v=mziIj4M_uwk",
+    "title": "#62 Python Tutorial for Beginners | Generators",
+    "author": "Telusko",
+    "durationSeconds": 371,
+    "thumbnail": "https://i.ytimg.com/vi/mziIj4M_uwk/maxresdefault.jpg",
+    "query": "python generators iterators comprehensions tutorial",
+    "match": 0.5
+  },
+  "modern-python-for-backend-engineers-database-access-with-sqlalchemy": {
+    "videoId": "XWtj4zLl_tg",
+    "url": "https://www.youtube.com/watch?v=XWtj4zLl_tg",
+    "title": "SQLAlchemy 2.0 ORM Crash Course - Manage Relational Databases with Python (SQLAlchemy 2.0)",
+    "author": "Ssali Jonathan",
+    "durationSeconds": 3780,
+    "thumbnail": "https://i.ytimg.com/vi/XWtj4zLl_tg/hqdefault.jpg",
+    "query": "sqlalchemy tutorial orm session relationships",
+    "match": 0.5
+  },
+  "modern-python-for-backend-engineers-deploying-with-docker": {
+    "videoId": "ED6PRjmXgBA",
+    "url": "https://www.youtube.com/watch?v=ED6PRjmXgBA",
+    "title": "Dockerize fastapi app - Python Framework inside docker container",
+    "author": "Sarthaksavvy",
+    "durationSeconds": 898,
+    "thumbnail": "https://i.ytimg.com/vi/ED6PRjmXgBA/maxresdefault.jpg",
+    "query": "docker python fastapi production dockerfile tutorial",
+    "match": 0.6
+  },
+  "modern-python-for-backend-engineers-fastapi-basics": {
+    "videoId": "3H_WqK8UOns",
+    "url": "https://www.youtube.com/watch?v=3H_WqK8UOns",
+    "title": "Python FastAPI Tutorial #17 FastAPI - Dependencies",
+    "author": "Technical Rajni",
+    "durationSeconds": 249,
+    "thumbnail": "https://i.ytimg.com/vi/3H_WqK8UOns/maxresdefault.jpg",
+    "query": "fastapi tutorial routing dependencies beginners",
+    "match": 0.5
+  },
+  "modern-python-for-backend-engineers-pydantic-models": {
+    "videoId": "M81pfi64eeM",
+    "url": "https://www.youtube.com/watch?v=M81pfi64eeM",
+    "title": "Python Pydantic Tutorial: Complete Data Validation Course (Used by FastAPI)",
+    "author": "Corey Schafer",
+    "durationSeconds": 5365,
+    "thumbnail": "https://i.ytimg.com/vi/M81pfi64eeM/maxresdefault.jpg",
+    "query": "pydantic models validation tutorial fastapi",
+    "match": 0.75
+  },
+  "modern-python-for-backend-engineers-testing-with-pytest": {
+    "videoId": "YmSYW-Ha78M",
+    "url": "https://www.youtube.com/watch?v=YmSYW-Ha78M",
+    "title": "Unit Testing in Python with pytest | Parametrizing Fixtures (Part-8)",
+    "author": "Indian Pythonista",
+    "durationSeconds": 862,
+    "thumbnail": "https://i.ytimg.com/vi/YmSYW-Ha78M/maxresdefault.jpg",
+    "query": "pytest tutorial fixtures parametrize testing python",
+    "match": 0.8
+  },
+  "modern-python-for-backend-engineers-types-and-the-data-model": {
+    "videoId": "MPX6LeCf5UY",
+    "url": "https://www.youtube.com/watch?v=MPX6LeCf5UY",
+    "title": "What Is Mutability Vs Immutability In Python Objects? - Python Code School",
+    "author": "Python Code School",
+    "durationSeconds": 184,
+    "thumbnail": "https://i.ytimg.com/vi/MPX6LeCf5UY/maxresdefault.jpg",
+    "query": "python data model objects mutability explained",
+    "match": 0.6
+  },
+  "modern-python-for-backend-engineers-virtual-environments-and-packaging": {
+    "videoId": "Y21OR1OPC9A",
+    "url": "https://www.youtube.com/watch?v=Y21OR1OPC9A",
+    "title": "Python Virtual Environments - Full Tutorial for Beginners",
+    "author": "Tech With Tim",
+    "durationSeconds": 545,
+    "thumbnail": "https://i.ytimg.com/vi/Y21OR1OPC9A/maxresdefault.jpg",
+    "query": "python virtual environments packaging pyproject tutorial",
+    "match": 0.6
+  },
+  "nextjs-app-router-in-depth-caching-and-revalidation": {
+    "videoId": "g5zbH3QrvGk",
+    "url": "https://www.youtube.com/watch?v=g5zbH3QrvGk",
+    "title": "Next.js 16 Cache Components - updateTag, revalidateTag & revalidatePath (3/6)",
+    "author": "Nikola Ivanovic",
+    "durationSeconds": 878,
+    "thumbnail": "https://i.ytimg.com/vi/g5zbH3QrvGk/maxresdefault.jpg",
+    "query": "next.js caching revalidation revalidateTag tutorial",
+    "match": 0.5
+  },
+  "nextjs-app-router-in-depth-crossing-the-server-client-boundary": {
+    "videoId": "yEz-wdEDSXQ",
+    "url": "https://www.youtube.com/watch?v=yEz-wdEDSXQ",
+    "title": "Next.js Server vs Client Components: Layout-level use client provider",
+    "author": "TheCodeForge",
+    "durationSeconds": 504,
+    "thumbnail": "https://i.ytimg.com/vi/yEz-wdEDSXQ/maxresdefault.jpg",
+    "query": "next.js passing props server to client components serializable",
+    "match": 0.57
+  },
+  "nextjs-app-router-in-depth-deploying-to-production": {
+    "videoId": "vS86x_e0zBk",
+    "url": "https://www.youtube.com/watch?v=vS86x_e0zBk",
+    "title": "Next.js Tutorial - 64 - Environment Variables",
+    "author": "Codevolution",
+    "durationSeconds": 350,
+    "thumbnail": "https://i.ytimg.com/vi/vS86x_e0zBk/maxresdefault.jpg",
+    "query": "next.js deploy production build output environment variables",
+    "match": 0.43
+  },
+  "nextjs-app-router-in-depth-dynamic-routes-and-params": {
+    "videoId": "k9g6aVLH3p4",
+    "url": "https://www.youtube.com/watch?v=k9g6aVLH3p4",
+    "title": "Next.js 15 Tutorial - 7 - Dynamic Routes",
+    "author": "Codevolution",
+    "durationSeconds": 365,
+    "thumbnail": "https://i.ytimg.com/vi/k9g6aVLH3p4/maxresdefault.jpg",
+    "query": "next.js dynamic routes params tutorial",
+    "match": 0.75
+  },
+  "nextjs-app-router-in-depth-fetching-in-server-components": {
+    "videoId": "WKfPctdIDek",
+    "url": "https://www.youtube.com/watch?v=WKfPctdIDek",
+    "title": "Next.js 15 Tutorial - 68 - Fetching Data in Server Components",
+    "author": "Codevolution",
+    "durationSeconds": 260,
+    "thumbnail": "https://i.ytimg.com/vi/WKfPctdIDek/maxresdefault.jpg",
+    "query": "next.js data fetching server components tutorial",
+    "match": 1
+  },
+  "nextjs-app-router-in-depth-file-based-routing-and-layouts": {
+    "videoId": "KBSYutEDkgw",
+    "url": "https://www.youtube.com/watch?v=KBSYutEDkgw",
+    "title": "Next.js App Router Explained: Nested Routes & Layouts Made Easy in Hindi",
+    "author": "Thapa Technical",
+    "durationSeconds": 815,
+    "thumbnail": "https://i.ytimg.com/vi/KBSYutEDkgw/maxresdefault.jpg",
+    "query": "next.js app router file based routing layouts tutorial",
+    "match": 0.57
+  },
+  "nextjs-app-router-in-depth-forms-and-validation": {
+    "videoId": "DK7WqcL9Qq4",
+    "url": "https://www.youtube.com/watch?v=DK7WqcL9Qq4",
+    "title": "Next.js Forms Are Different Now (Server Actions, useActionState, Form Component, Form Backend)",
+    "author": "ByteGrad",
+    "durationSeconds": 852,
+    "thumbnail": "https://i.ytimg.com/vi/DK7WqcL9Qq4/maxresdefault.jpg",
+    "query": "next.js form validation server actions useActionState",
+    "match": 0.83
+  },
+  "nextjs-app-router-in-depth-route-groups-and-parallel-routes": {
+    "videoId": "697kNwfU-4M",
+    "url": "https://www.youtube.com/watch?v=697kNwfU-4M",
+    "title": "Next.js 15 Tutorial - 30 - Parallel Routes",
+    "author": "Codevolution",
+    "durationSeconds": 513,
+    "thumbnail": "https://i.ytimg.com/vi/697kNwfU-4M/maxresdefault.jpg",
+    "query": "next.js route groups parallel routes intercepting tutorial",
+    "match": 0.5
+  },
+  "nextjs-app-router-in-depth-server-actions": {
+    "videoId": "m0Ao0cu7GmY",
+    "url": "https://www.youtube.com/watch?v=m0Ao0cu7GmY",
+    "title": "Next.js Server Actions Simply Explained in just 5 Minutes",
+    "author": "Tobi Mey",
+    "durationSeconds": 316,
+    "thumbnail": "https://i.ytimg.com/vi/m0Ao0cu7GmY/maxresdefault.jpg",
+    "query": "next.js server actions tutorial",
+    "match": 1
+  },
+  "nextjs-app-router-in-depth-server-components-explained": {
+    "videoId": "Nnr6w8vamUo",
+    "url": "https://www.youtube.com/watch?v=Nnr6w8vamUo",
+    "title": "Next.js 15 Tutorial - 51 - React Server Components",
+    "author": "Codevolution",
+    "durationSeconds": 395,
+    "thumbnail": "https://i.ytimg.com/vi/Nnr6w8vamUo/maxresdefault.jpg",
+    "query": "react server components explained next.js",
+    "match": 1
+  },
+  "nextjs-app-router-in-depth-streaming-with-suspense": {
+    "videoId": "2o5m1ovfl3c",
+    "url": "https://www.youtube.com/watch?v=2o5m1ovfl3c",
+    "title": "Loading UI with Next.js 13 and React Suspense",
+    "author": "Vercel",
+    "durationSeconds": 186,
+    "thumbnail": "https://i.ytimg.com/vi/2o5m1ovfl3c/maxresdefault.jpg",
+    "query": "next.js streaming suspense loading ui tutorial",
+    "match": 0.75
+  },
+  "nextjs-app-router-in-depth-use-client-and-hydration": {
+    "videoId": "VN31LTY00h4",
+    "url": "https://www.youtube.com/watch?v=VN31LTY00h4",
+    "title": "Stop Misusing use client ⚠️ Next.js Rendering Guide #9 || Next.js Anatomy || DeathCode",
+    "author": "Death Code",
+    "durationSeconds": 714,
+    "thumbnail": "https://i.ytimg.com/vi/VN31LTY00h4/maxresdefault.jpg",
+    "query": "next.js use client directive hydration explained",
+    "match": 0.6
+  },
+  "react-performance-engineering-bundle-analysis": {
+    "videoId": "MUSoj2JcD4A",
+    "url": "https://www.youtube.com/watch?v=MUSoj2JcD4A",
+    "title": "Tree shaking in JavaScript (Optimize the bundle size of your application) | Complete Example + Setup",
+    "author": "xplodivity",
+    "durationSeconds": 330,
+    "thumbnail": "https://i.ytimg.com/vi/MUSoj2JcD4A/maxresdefault.jpg",
+    "query": "javascript bundle analyzer webpack bundle size tutorial",
+    "match": 0.6
+  },
+  "react-performance-engineering-code-splitting-and-lazy": {
+    "videoId": "IBrmsyy9R94",
+    "url": "https://www.youtube.com/watch?v=IBrmsyy9R94",
+    "title": "Code Splitting in React JS - Lazy Loading Performance Optimization",
+    "author": "RoadsideCoder",
+    "durationSeconds": 970,
+    "thumbnail": "https://i.ytimg.com/vi/IBrmsyy9R94/maxresdefault.jpg",
+    "query": "react code splitting lazy suspense tutorial",
+    "match": 0.8
+  },
+  "react-performance-engineering-concurrent-rendering-and-transitions": {
+    "videoId": "U9Cth5xDEKs",
+    "url": "https://www.youtube.com/watch?v=U9Cth5xDEKs",
+    "title": "React v18 Hooks - useTransition vs useDeferredValue Examples & Comparison",
+    "author": "Dave Gray",
+    "durationSeconds": 971,
+    "thumbnail": "https://i.ytimg.com/vi/U9Cth5xDEKs/maxresdefault.jpg",
+    "query": "react concurrent rendering usetransition usedeferredvalue tutorial",
+    "match": 0.6
+  },
+  "react-performance-engineering-context-without-rerenders": {
+    "videoId": "16yMmAJSGek",
+    "url": "https://www.youtube.com/watch?v=16yMmAJSGek",
+    "title": "This Context API Mistake Ruins Your Whole React App (All Components Re-Render)",
+    "author": "ByteGrad",
+    "durationSeconds": 336,
+    "thumbnail": "https://i.ytimg.com/vi/16yMmAJSGek/maxresdefault.jpg",
+    "query": "react context re-render optimization split context",
+    "match": 0.6
+  },
+  "react-performance-engineering-core-web-vitals": {
+    "videoId": "cGiSr0MilsI",
+    "url": "https://www.youtube.com/watch?v=cGiSr0MilsI",
+    "title": "Core Web Vitals Explained: LCP, INP & CLS",
+    "author": "I Code It",
+    "durationSeconds": 886,
+    "thumbnail": "https://i.ytimg.com/vi/cGiSr0MilsI/maxresdefault.jpg",
+    "query": "core web vitals lcp inp cls explained web performance",
+    "match": 0.86
+  },
+  "react-performance-engineering-finding-wasted-renders": {
+    "videoId": "GwxIO3DDJ2U",
+    "url": "https://www.youtube.com/watch?v=GwxIO3DDJ2U",
+    "title": "React Performance: Identifying Wasted Renders",
+    "author": "Sparkbox",
+    "durationSeconds": 184,
+    "thumbnail": "https://i.ytimg.com/vi/GwxIO3DDJ2U/maxresdefault.jpg",
+    "query": "react wasted renders re-render debugging tutorial",
+    "match": 0.6
+  },
+  "react-performance-engineering-image-and-font-loading": {
+    "videoId": "IPLPb1Bd_oE",
+    "url": "https://www.youtube.com/watch?v=IPLPb1Bd_oE",
+    "title": "Shopify Speed Optimization: Fix Slow Loading, Improve SEO & Pass Core Web Vitals",
+    "author": "Shopioso",
+    "durationSeconds": 1836,
+    "thumbnail": "https://i.ytimg.com/vi/IPLPb1Bd_oE/maxresdefault.jpg",
+    "query": "web performance image optimization font loading cls tutorial",
+    "match": 0.43
+  },
+  "react-performance-engineering-keys-and-reconciliation": {
+    "videoId": "KZRKCM7Brh8",
+    "url": "https://www.youtube.com/watch?v=KZRKCM7Brh8",
+    "title": "React Keys 🔑 & Reconciliation Algorithm Explained | Avoid Costly UI Bugs!",
+    "author": "Coding 4 Dev",
+    "durationSeconds": 228,
+    "thumbnail": "https://i.ytimg.com/vi/KZRKCM7Brh8/maxresdefault.jpg",
+    "query": "react keys reconciliation list rendering explained",
+    "match": 0.6
+  },
+  "react-performance-engineering-memo-usememo-usecallback": {
+    "videoId": "0lX5Sun7zWc",
+    "url": "https://www.youtube.com/watch?v=0lX5Sun7zWc",
+    "title": "React.memo vs useCallback vs useMemo Explained with Examples🔥",
+    "author": "Gajanan Tech Hub",
+    "durationSeconds": 800,
+    "thumbnail": "https://i.ytimg.com/vi/0lX5Sun7zWc/maxresdefault.jpg",
+    "query": "react memo usememo usecallback explained tutorial",
+    "match": 1
+  },
+  "react-performance-engineering-react-profiler": {
+    "videoId": "Qwb-Za6cBws",
+    "url": "https://www.youtube.com/watch?v=Qwb-Za6cBws",
+    "title": "How To Maximize Performance In Your React Apps",
+    "author": "Web Dev Simplified",
+    "durationSeconds": 778,
+    "thumbnail": "https://i.ytimg.com/vi/Qwb-Za6cBws/maxresdefault.jpg",
+    "query": "react profiler devtools performance tutorial",
+    "match": 0.5
+  },
+  "react-performance-engineering-virtualizing-long-lists": {
+    "videoId": "Yz4eK-4LKXg",
+    "url": "https://www.youtube.com/watch?v=Yz4eK-4LKXg",
+    "title": "Let's Build a VIRTUALIZED LIST from Scratch in React.js",
+    "author": "Raj talks tech",
+    "durationSeconds": 765,
+    "thumbnail": "https://i.ytimg.com/vi/Yz4eK-4LKXg/maxresdefault.jpg",
+    "query": "react virtualized list windowing tutorial",
+    "match": 0.75
+  },
+  "react-performance-engineering-web-workers-for-heavy-work": {
+    "videoId": "KKT92Sp7xdQ",
+    "url": "https://www.youtube.com/watch?v=KKT92Sp7xdQ",
+    "title": "Frontend Tutorial | Understanding Web Workers | Dedicated vs Shared Workers Explained in Javascript",
+    "author": "CoedMaster",
+    "durationSeconds": 1644,
+    "thumbnail": "https://i.ytimg.com/vi/KKT92Sp7xdQ/maxresdefault.jpg",
+    "query": "javascript web workers tutorial offload main thread",
+    "match": 0.5
+  },
+  "sql-and-database-performance-aggregation-and-group-by": {
+    "videoId": "VQf0V6Wwbf4",
+    "url": "https://www.youtube.com/watch?v=VQf0V6Wwbf4",
+    "title": "GROUP BY and HAVING Clause in SQL",
+    "author": "Neso Academy",
+    "durationSeconds": 477,
+    "thumbnail": "https://i.ytimg.com/vi/VQf0V6Wwbf4/maxresdefault.jpg",
+    "query": "sql group by aggregation having tutorial",
+    "match": 0.75
+  },
+  "sql-and-database-performance-btree-indexes": {
+    "videoId": "9eqKRT5K8hI",
+    "url": "https://www.youtube.com/watch?v=9eqKRT5K8hI",
+    "title": "PostgreSQL indexes. B-Tree or Hash. What is better? How it works?",
+    "author": "JaneExplainsIT",
+    "durationSeconds": 350,
+    "thumbnail": "https://i.ytimg.com/vi/9eqKRT5K8hI/maxresdefault.jpg",
+    "query": "database b-tree index how it works explained",
+    "match": 0.6
+  },
+  "sql-and-database-performance-composite-and-covering-indexes": {
+    "videoId": "ZSymnZ2-Q2w",
+    "url": "https://www.youtube.com/watch?v=ZSymnZ2-Q2w",
+    "title": "3.4 Why Index Column Order Matters in SQL Server Database",
+    "author": "Code Mechanic",
+    "durationSeconds": 481,
+    "thumbnail": "https://i.ytimg.com/vi/ZSymnZ2-Q2w/maxresdefault.jpg",
+    "query": "composite index covering index column order sql tutorial",
+    "match": 0.67
+  },
+  "sql-and-database-performance-explain-plans": {
+    "videoId": "P7EUFtjeAmI",
+    "url": "https://www.youtube.com/watch?v=P7EUFtjeAmI",
+    "title": "Postgres Explain Explained - How Databases Prepare Optimal Query Plans to Execute SQL",
+    "author": "Hussein Nasser",
+    "durationSeconds": 617,
+    "thumbnail": "https://i.ytimg.com/vi/P7EUFtjeAmI/hqdefault.jpg",
+    "query": "sql explain analyze query plan tutorial postgres",
+    "match": 0.67
+  },
+  "sql-and-database-performance-joins": {
+    "videoId": "KTvYHEntvn8",
+    "url": "https://www.youtube.com/watch?v=KTvYHEntvn8",
+    "title": "Inner Join, Left Join, Right Join and Full Outer Join in SQL Server | SQL Server Joins",
+    "author": "Questpond",
+    "durationSeconds": 491,
+    "thumbnail": "https://i.ytimg.com/vi/KTvYHEntvn8/hqdefault.jpg",
+    "query": "sql joins inner left outer explained tutorial",
+    "match": 1
+  },
+  "sql-and-database-performance-locking-and-deadlocks": {
+    "videoId": "Juq20LYXpSU",
+    "url": "https://www.youtube.com/watch?v=Juq20LYXpSU",
+    "title": "Database Locks Explained | With Real-World E-Commerce Example",
+    "author": "Redhwan Nacef",
+    "durationSeconds": 475,
+    "thumbnail": "https://i.ytimg.com/vi/Juq20LYXpSU/maxresdefault.jpg",
+    "query": "database locking deadlock explained postgres mysql",
+    "match": 0.2
+  },
+  "sql-and-database-performance-n-plus-one-queries": {
+    "videoId": "XjYD8SQnfUw",
+    "url": "https://www.youtube.com/watch?v=XjYD8SQnfUw",
+    "title": "The N+1 Query Problem Explained (Your ORM Is Lying to You)",
+    "author": "prahack",
+    "durationSeconds": 531,
+    "thumbnail": "https://i.ytimg.com/vi/XjYD8SQnfUw/maxresdefault.jpg",
+    "query": "n+1 query problem batch loading orm explained",
+    "match": 0.67
+  },
+  "sql-and-database-performance-pagination-at-scale": {
+    "videoId": "YXOLT6k0tKw",
+    "url": "https://www.youtube.com/watch?v=YXOLT6k0tKw",
+    "title": "Offset vs Cursor Pagination in EF Core",
+    "author": "Remigiusz Zalewski",
+    "durationSeconds": 1295,
+    "thumbnail": "https://i.ytimg.com/vi/YXOLT6k0tKw/maxresdefault.jpg",
+    "query": "keyset pagination cursor pagination sql offset slow",
+    "match": 0.5
+  },
+  "sql-and-database-performance-transactions-and-isolation": {
+    "videoId": "9wmTZUSJk5w",
+    "url": "https://www.youtube.com/watch?v=9wmTZUSJk5w",
+    "title": "Database Transactions Explained: ACID, Isolation Levels & Real-World Pitfalls",
+    "author": "The Trending Tech Show",
+    "durationSeconds": 1086,
+    "thumbnail": "https://i.ytimg.com/vi/9wmTZUSJk5w/maxresdefault.jpg",
+    "query": "database transactions acid isolation levels explained",
+    "match": 1
+  },
+  "sql-and-database-performance-when-indexes-hurt": {
+    "videoId": "Gd1ygCP4_Hw",
+    "url": "https://www.youtube.com/watch?v=Gd1ygCP4_Hw",
+    "title": "Duplicate Index Hitting Performance Issues SQL Server Database | Can we Drop Duplicate Indexes?",
+    "author": "Tech and Art",
+    "durationSeconds": 287,
+    "thumbnail": "https://i.ytimg.com/vi/Gd1ygCP4_Hw/hqdefault.jpg",
+    "query": "database index write performance unused indexes explained",
+    "match": 0.67
+  },
+  "sql-and-database-performance-window-functions": {
+    "videoId": "shpipsp2NYg",
+    "url": "https://www.youtube.com/watch?v=shpipsp2NYg",
+    "title": "SQL Window Functions Explained Part 1| ROW_NUMBER, RANK, DENSE_RANK, OVER, PARTITION BY, ORDER BY",
+    "author": "The Code Samples",
+    "durationSeconds": 373,
+    "thumbnail": "https://i.ytimg.com/vi/shpipsp2NYg/maxresdefault.jpg",
+    "query": "sql window functions over partition by tutorial",
+    "match": 1
+  },
+  "sql-and-database-performance-zero-downtime-migrations": {
+    "videoId": "Xvage-oOgoc",
+    "url": "https://www.youtube.com/watch?v=Xvage-oOgoc",
+    "title": "Zero-Downtime Database Migration | DevOps Interview",
+    "author": "DevOps Interview Cloud",
+    "durationSeconds": 454,
+    "thumbnail": "https://i.ytimg.com/vi/Xvage-oOgoc/maxresdefault.jpg",
+    "query": "zero downtime database migration expand contract tutorial",
+    "match": 0.67
+  },
+  "system-design-for-scale-caching-strategies": {
+    "videoId": "tpXHTSgvcPw",
+    "url": "https://www.youtube.com/watch?v=tpXHTSgvcPw",
+    "title": "System Design: Caching Strategies Explained | Read-Aside, Read-Through, Cache Invalidation",
+    "author": "Coding With Aaditya",
+    "durationSeconds": 1498,
+    "thumbnail": "https://i.ytimg.com/vi/tpXHTSgvcPw/maxresdefault.jpg",
+    "query": "caching strategies system design cache invalidation explained",
+    "match": 1
+  },
+  "system-design-for-scale-cap-and-consistency": {
+    "videoId": "8UryASGBiR4",
+    "url": "https://www.youtube.com/watch?v=8UryASGBiR4",
+    "title": "CAP Theorem Simplified 2026 | System Design Fundamentals | Distributed Systems | Scaler",
+    "author": "SCALER",
+    "durationSeconds": 767,
+    "thumbnail": "https://i.ytimg.com/vi/8UryASGBiR4/maxresdefault.jpg",
+    "query": "cap theorem consistency models distributed systems explained",
+    "match": 0.67
+  },
+  "system-design-for-scale-design-a-chat-system": {
+    "videoId": "okrR1KXNLtA",
+    "url": "https://www.youtube.com/watch?v=okrR1KXNLtA",
+    "title": "FAANG System Design Interview: Design A Chat System (WhatsApp, Facebook Messenger, Discord, Slack)",
+    "author": "ByteByteGo",
+    "durationSeconds": 525,
+    "thumbnail": "https://i.ytimg.com/vi/okrR1KXNLtA/maxresdefault.jpg",
+    "query": "system design interview chat system whatsapp design tutorial",
+    "match": 1
+  },
+  "system-design-for-scale-design-a-news-feed": {
+    "videoId": "Qj4-GruzyDU",
+    "url": "https://www.youtube.com/watch?v=Qj4-GruzyDU",
+    "title": "Design FB News Feed System Design Interview w/ ex: Meta Senior Manager",
+    "author": "Hello Interview",
+    "durationSeconds": 1572,
+    "thumbnail": "https://i.ytimg.com/vi/Qj4-GruzyDU/maxresdefault.jpg",
+    "query": "system design interview news feed design tutorial",
+    "match": 1
+  },
+  "system-design-for-scale-design-a-url-shortener": {
+    "videoId": "qSJAvd5Mgio",
+    "url": "https://www.youtube.com/watch?v=qSJAvd5Mgio",
+    "title": "Design a URL Shortener (Bitly) - System Design Interview",
+    "author": "NeetCodeIO",
+    "durationSeconds": 2913,
+    "thumbnail": "https://i.ytimg.com/vi/qSJAvd5Mgio/maxresdefault.jpg",
+    "query": "system design interview url shortener tutorial",
+    "match": 1
+  },
+  "system-design-for-scale-idempotency-and-retries": {
+    "videoId": "zXFOOi7nhp4",
+    "url": "https://www.youtube.com/watch?v=zXFOOi7nhp4",
+    "title": "Circuit Breaker Pattern Explained | Timeouts, Retries & Fallbacks in System Design",
+    "author": "TechLove",
+    "durationSeconds": 2181,
+    "thumbnail": "https://i.ytimg.com/vi/zXFOOi7nhp4/maxresdefault.jpg",
+    "query": "idempotency retries exponential backoff circuit breaker explained",
+    "match": 0.5
+  },
+  "system-design-for-scale-load-balancing": {
+    "videoId": "JJ_T2aDOta0",
+    "url": "https://www.youtube.com/watch?v=JJ_T2aDOta0",
+    "title": "Load Balancer in System Design Interviews | L4 vs L7 Explained + Load Balancing Algorithms",
+    "author": "Shubh Patel",
+    "durationSeconds": 1602,
+    "thumbnail": "https://i.ytimg.com/vi/JJ_T2aDOta0/maxresdefault.jpg",
+    "query": "load balancing algorithms system design explained",
+    "match": 1
+  },
+  "system-design-for-scale-message-queues": {
+    "videoId": "IeLP6UhdT78",
+    "url": "https://www.youtube.com/watch?v=IeLP6UhdT78",
+    "title": "11 ) What is Message Queue | RabbitMQ | Kafka | System design basics",
+    "author": "VKS Coding",
+    "durationSeconds": 1301,
+    "thumbnail": "https://i.ytimg.com/vi/IeLP6UhdT78/maxresdefault.jpg",
+    "query": "message queue kafka rabbitmq system design explained",
+    "match": 1
+  },
+  "system-design-for-scale-microservices-vs-monolith": {
+    "videoId": "77875MvqjR4",
+    "url": "https://www.youtube.com/watch?v=77875MvqjR4",
+    "title": "Microservices vs Monolith: Pros, Cons & Real‑World Trade‑offs",
+    "author": "Code Design",
+    "durationSeconds": 900,
+    "thumbnail": "https://i.ytimg.com/vi/77875MvqjR4/hqdefault.jpg",
+    "query": "microservices vs monolith architecture trade-offs explained",
+    "match": 0.8
+  },
+  "system-design-for-scale-rate-limiting": {
+    "videoId": "il3vVUszSwA",
+    "url": "https://www.youtube.com/watch?v=il3vVUszSwA",
+    "title": "SD 26 | Rate Limiting Algorithms: Token Bucket & Leaky Bucket | System Design Course | Uplatz",
+    "author": "Uplatz",
+    "durationSeconds": 459,
+    "thumbnail": "https://i.ytimg.com/vi/il3vVUszSwA/maxresdefault.jpg",
+    "query": "rate limiting algorithms token bucket system design",
+    "match": 1
+  },
+  "system-design-for-scale-scalability-basics": {
+    "videoId": "hhk5ck4XH4o",
+    "url": "https://www.youtube.com/watch?v=hhk5ck4XH4o",
+    "title": "Scalability in System Design - Horizontal vs Vertical Scaling",
+    "author": "Monis Yousuf",
+    "durationSeconds": 639,
+    "thumbnail": "https://i.ytimg.com/vi/hhk5ck4XH4o/maxresdefault.jpg",
+    "query": "system design scalability horizontal vertical scaling explained",
+    "match": 1
+  },
+  "system-design-for-scale-sharding-and-replication": {
+    "videoId": "jTe6Q78uzQA",
+    "url": "https://www.youtube.com/watch?v=jTe6Q78uzQA",
+    "title": "Database Optimization in System Design | Replication, CAP Theorem, Partitioning & Sharding Explained",
+    "author": "Web Detailed by Mohi",
+    "durationSeconds": 2605,
+    "thumbnail": "https://i.ytimg.com/vi/jTe6Q78uzQA/maxresdefault.jpg",
+    "query": "database sharding replication system design explained",
+    "match": 1
+  },
+  "typescript-at-scale-conditional-types": {
+    "videoId": "KcDzkOJpCaI",
+    "url": "https://www.youtube.com/watch?v=KcDzkOJpCaI",
+    "title": "TypeScript Conditional Types & infer Explained (2026)",
+    "author": "Sukrid LearnHub",
+    "durationSeconds": 863,
+    "thumbnail": "https://i.ytimg.com/vi/KcDzkOJpCaI/maxresdefault.jpg",
+    "query": "typescript conditional types infer explained",
+    "match": 1
+  },
+  "typescript-at-scale-declaration-files": {
+    "videoId": "pPY0A7LgAuE",
+    "url": "https://www.youtube.com/watch?v=pPY0A7LgAuE",
+    "title": "TypeScript Declaration Files: Type Any JS Library with .d.ts",
+    "author": "Sukrid LearnHub",
+    "durationSeconds": 761,
+    "thumbnail": "https://i.ytimg.com/vi/pPY0A7LgAuE/maxresdefault.jpg",
+    "query": "typescript declaration files d.ts module augmentation tutorial",
+    "match": 0.6
+  },
+  "typescript-at-scale-generics": {
+    "videoId": "EcCTIExsqmI",
+    "url": "https://www.youtube.com/watch?v=EcCTIExsqmI",
+    "title": "Learn TypeScript Generics In 13 Minutes",
+    "author": "Web Dev Simplified",
+    "durationSeconds": 771,
+    "thumbnail": "https://i.ytimg.com/vi/EcCTIExsqmI/maxresdefault.jpg",
+    "query": "typescript generics tutorial constraints",
+    "match": 0.67
+  },
+  "typescript-at-scale-mapped-types": {
+    "videoId": "RjQpep8fBdo",
+    "url": "https://www.youtube.com/watch?v=RjQpep8fBdo",
+    "title": "Mapped Types - Advanced TypeScript",
+    "author": "Dmytro Danylov",
+    "durationSeconds": 735,
+    "thumbnail": "https://i.ytimg.com/vi/RjQpep8fBdo/maxresdefault.jpg",
+    "query": "typescript mapped types tutorial",
+    "match": 1
+  },
+  "typescript-at-scale-project-references": {
+    "videoId": "SDE3cIq28s8",
+    "url": "https://www.youtube.com/watch?v=SDE3cIq28s8",
+    "title": "TypeScript Project References Demistified",
+    "author": "Nx - Smart Monorepos - Fast CI",
+    "durationSeconds": 361,
+    "thumbnail": "https://i.ytimg.com/vi/SDE3cIq28s8/maxresdefault.jpg",
+    "query": "typescript project references monorepo tutorial",
+    "match": 0.75
+  },
+  "typescript-at-scale-runtime-validation-with-zod": {
+    "videoId": "9DO4RbFH4YI",
+    "url": "https://www.youtube.com/watch?v=9DO4RbFH4YI",
+    "title": "Runtime Validation with Zod: TypeScript Guide",
+    "author": "Interview Browser",
+    "durationSeconds": 427,
+    "thumbnail": "https://i.ytimg.com/vi/9DO4RbFH4YI/maxresdefault.jpg",
+    "query": "zod runtime validation typescript tutorial",
+    "match": 1
+  },
+  "typescript-at-scale-structural-typing": {
+    "videoId": "EX5R2-j-0Jk",
+    "url": "https://www.youtube.com/watch?v=EX5R2-j-0Jk",
+    "title": "TypeScript Opaque Types // Nominal vs Structural Typing (Advanced TypeScript)",
+    "author": "basarat",
+    "durationSeconds": 236,
+    "thumbnail": "https://i.ytimg.com/vi/EX5R2-j-0Jk/maxresdefault.jpg",
+    "query": "typescript structural typing explained",
+    "match": 1
+  },
+  "typescript-at-scale-template-literal-types": {
+    "videoId": "jLgVlzC8WUI",
+    "url": "https://www.youtube.com/watch?v=jLgVlzC8WUI",
+    "title": "What are Template Literal Types in TypeScript?",
+    "author": "Flo Woelki",
+    "durationSeconds": 559,
+    "thumbnail": "https://i.ytimg.com/vi/jLgVlzC8WUI/maxresdefault.jpg",
+    "query": "typescript template literal types tutorial",
+    "match": 1
+  },
+  "typescript-at-scale-tsconfig-strictness": {
+    "videoId": "0XrviXgk_rY",
+    "url": "https://www.youtube.com/watch?v=0XrviXgk_rY",
+    "title": "TypeScript tsconfig.json Explained: Strict Mode, Paths & More",
+    "author": "Sukrid LearnHub",
+    "durationSeconds": 593,
+    "thumbnail": "https://i.ytimg.com/vi/0XrviXgk_rY/maxresdefault.jpg",
+    "query": "typescript tsconfig strict mode explained",
+    "match": 1
+  },
+  "typescript-at-scale-type-checking-in-ci": {
+    "videoId": "yZ1XP79jlNI",
+    "url": "https://www.youtube.com/watch?v=yZ1XP79jlNI",
+    "title": "How to Build a CI/CD Pipeline Using Playwright, TypeScript, and GitHub Actions Alex \"The Beardo\"",
+    "author": "ALEXANDRISM",
+    "durationSeconds": 537,
+    "thumbnail": "https://i.ytimg.com/vi/yZ1XP79jlNI/maxresdefault.jpg",
+    "query": "typescript github actions ci pipeline tutorial",
+    "match": 1
+  },
+  "typescript-at-scale-typing-api-responses": {
+    "videoId": "94q86UdfF9I",
+    "url": "https://www.youtube.com/watch?v=94q86UdfF9I",
+    "title": "Stop Typing fetch() as any — Generic API Wrapper in TypeScript",
+    "author": "Codepoint",
+    "durationSeconds": 382,
+    "thumbnail": "https://i.ytimg.com/vi/94q86UdfF9I/maxresdefault.jpg",
+    "query": "typescript typing api responses unknown fetch tutorial",
+    "match": 0.67
+  },
+  "typescript-at-scale-unions-and-narrowing": {
+    "videoId": "CG3_Y9T03J4",
+    "url": "https://www.youtube.com/watch?v=CG3_Y9T03J4",
+    "title": "TypeScript Exhaustive Switch: How discriminated unions make your job easier!",
+    "author": "Andrew Burgess",
+    "durationSeconds": 620,
+    "thumbnail": "https://i.ytimg.com/vi/CG3_Y9T03J4/maxresdefault.jpg",
+    "query": "typescript discriminated unions narrowing tutorial",
+    "match": 0.75
+  }
+}

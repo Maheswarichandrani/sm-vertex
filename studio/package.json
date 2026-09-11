@@ -10,7 +10,11 @@
     "deploy-graphql": "sanity graphql deploy",
     "dev": "sanity dev",
     "start": "sanity start",
-    "typegen": "sanity schemas extract --force && sanity typegen generate"
+    "typegen": "sanity schemas extract --force && sanity typegen generate",
+    "seed:videos": "node seed/resolve-videos.mjs",
+    "seed:build": "node seed/build-ndjson.mjs",
+    "seed:import": "sanity dataset import seed/seed.ndjson production --replace",
+    "seed:verify": "node seed/verify.mjs"
   },
   "keywords": [
     "sanity"
@@ -23,9 +27,11 @@
     "styled-components": "^6.1.18"
   },
   "devDependencies": {
+    "@sanity/client": "^8.6.1",
     "@sanity/eslint-config-studio": "^7",
     "@types/react": "^19.2.14",
     "eslint": "^10.8.1",
+    "globals": "^14.0.0",
     "prettier": "^3.5",
     "typescript": "^5.8"
   },
