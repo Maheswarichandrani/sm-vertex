@@ -14,8 +14,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Vertex Design System",
-  description: "A unified design language for Vertex learning platform.",
+  title: "Vertex",
+  description: "Search your learning in plain English.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

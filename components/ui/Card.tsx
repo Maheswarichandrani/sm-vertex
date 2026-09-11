@@ -2,7 +2,6 @@ import type { ReactNode } from "react";
 import { Badge } from "./Badge";
 import {
   BarChartIcon,
-  BookmarkIcon,
   ClockIcon,
   DownloadIcon,
   ExternalLinkIcon,
@@ -18,24 +17,84 @@ function CardShell({ children }: { children: ReactNode }) {
   );
 }
 
+interface CourseCardProps {
+  title: string;
+  description: string;
+  level: string;
+  duration: string;
+  modules: string;
+  icon?: ReactNode;
+  /** "row" is the design-system sheet's card; "stacked" is the home page's. */
+  layout?: "row" | "stacked";
+}
+
+function CourseMeta({
+  level,
+  duration,
+  modules,
+  size,
+}: {
+  level: string;
+  duration: string;
+  modules: string;
+  size: number;
+}) {
+  return (
+    <>
+      <span className="flex items-center gap-1.5">
+        <BarChartIcon width={size} height={size} />
+        {level}
+      </span>
+      <span className="flex items-center gap-1.5">
+        <ClockIcon width={size} height={size} />
+        {duration}
+      </span>
+      <span className="flex items-center gap-1.5">
+        <FileIcon width={size} height={size} />
+        {modules}
+      </span>
+    </>
+  );
+}
+
 export function CourseCard({
   title,
   description,
   level,
   duration,
   modules,
-}: {
-  title: string;
-  description: string;
-  level: string;
-  duration: string;
-  modules: string;
-}) {
+  icon,
+  layout = "row",
+}: CourseCardProps) {
+  if (layout === "stacked") {
+    return (
+      <article className="flex min-h-[374px] flex-col rounded-lg border border-canvas-line bg-canvas-card px-7 pt-8 pb-[33px] shadow-sm">
+        {icon ?? (
+          <span className="flex h-[72px] w-[72px] items-center justify-center rounded-lg bg-neutral-900 font-display text-[30px] text-white">
+            {title.charAt(0)}
+          </span>
+        )}
+        <h3 className="mt-[27px] font-display text-2xl font-bold text-neutral-900">
+          {title}
+        </h3>
+        <p className="mt-[26px] text-[15px] leading-[25px] text-neutral-500">
+          {description}
+        </p>
+        {/* The reference insets the divider and meta row 18px, 10px wider than the body padding. */}
+        <div className="mt-auto -mx-2.5 border-t border-canvas-line pt-[22px]">
+          <div className="flex items-center gap-[18px] text-small text-neutral-500">
+            <CourseMeta level={level} duration={duration} modules={modules} size={16} />
+          </div>
+        </div>
+      </article>
+    );
+  }
+
   return (
     <CardShell>
       <div className="flex items-start gap-3">
-        <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-md bg-neutral-900 font-display text-white">
-          {title.charAt(0)}
+        <div className="flex h-10 w-10 shrink-0 items-center justify-center overflow-hidden rounded-md bg-neutral-900 font-display text-white">
+          {icon ?? title.charAt(0)}
         </div>
         <div>
           <h4 className="text-heading-3 text-neutral-900">{title}</h4>
@@ -43,18 +102,7 @@ export function CourseCard({
         </div>
       </div>
       <div className="flex items-center gap-4 text-small text-neutral-500">
-        <span className="flex items-center gap-1">
-          <BarChartIcon width={14} height={14} />
-          {level}
-        </span>
-        <span className="flex items-center gap-1">
-          <ClockIcon width={14} height={14} />
-          {duration}
-        </span>
-        <span className="flex items-center gap-1">
-          <BookmarkIcon width={14} height={14} />
-          {modules}
-        </span>
+        <CourseMeta level={level} duration={duration} modules={modules} size={14} />
       </div>
     </CardShell>
   );

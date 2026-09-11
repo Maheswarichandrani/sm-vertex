@@ -185,3 +185,24 @@ export function ChevronDownIcon(props: IconProps) {
     </svg>
   );
 }
+
+export function ArrowRightIcon(props: IconProps) {
+  return (
+    <svg {...base(props)} fill="none" stroke="currentColor">
+      <path d="M5 12h14" />
+      <path d="M13 6l6 6-6 6" />
+    </svg>
+  );
+}
+
+export function StarIcon(props: IconProps) {
+  return props.filled ? (
+    <svg {...base(props)}>
+      <path d="M12 2.5l2.9 6.1 6.6.8-4.9 4.6 1.3 6.6L12 17.3l-5.9 3.3 1.3-6.6-4.9-4.6 6.6-.8L12 2.5Z" />
+    </svg>
+  ) : (
+    <svg {...base(props)}>
+      <path d="M12 3l2.6 5.4 5.9.7-4.3 4.1 1.1 5.9L12 16.2l-5.3 2.9 1.1-5.9-4.3-4.1 5.9-.7L12 3Z" />
+    </svg>
+  );
+}
